@@ -12,43 +12,6 @@ A simple, elegant blog platform built with PHP, MySQL, and Bootstrap. Perfect fo
 - **Responsive Design**: Beautiful Bootstrap-powered UI
 - **Role-based Access**: User and Admin roles with different permissions
 
-## 📋 Requirements
-
-- **XAMPP** (or any web server with PHP and MySQL)
-- **PHP 7.4+**
-- **MySQL 5.7+**
-- **Web Browser** with JavaScript enabled
-
-## 🚀 Installation & Setup
-
-### 1. Clone/Download Files
-```bash
-# Place all files in your XAMPP htdocs folder
-C:\xampp\htdocs\Chintarekha\
-```
-
-### 2. Database Setup
-1. Start XAMPP (Apache and MySQL)
-2. Open phpMyAdmin (http://localhost/phpmyadmin)
-3. Create a new database named `blog`
-4. Import the `blog.sql` file into the database
-
-### 3. Configure Database Connection
-The `config.php` file is already configured for XAMPP defaults:
-- Host: localhost
-- Username: root  
-- Password: (empty)
-- Database: blog
-
-### 4. Set Folder Permissions
-Make sure the `uploads/` folder has write permissions for image uploads.
-
-### 5. Run Setup Script
-Visit: `http://localhost/Chintarekha/setup.php`
-
-### 6. Start Blogging!
-Visit: `http://localhost/Chintarekha/`
-
 
 ## 📁 Project Structure
 
