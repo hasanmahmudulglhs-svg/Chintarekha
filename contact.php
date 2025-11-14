@@ -113,20 +113,20 @@ include 'header.php';
             <div class="card-body">
                 <div class="mb-3">
                     <h6><i class="bi bi-envelope text-primary"></i> Email</h6>
-                    <p class="text-muted mb-0">hello@chintarekha.com</p>
+                    <p class="text-muted mb-0">hasanmahmudulglhs@gmail.com</p>
                 </div>
                 
                 <div class="mb-3">
                     <h6><i class="bi bi-telephone text-success"></i> Phone</h6>
-                    <p class="text-muted mb-0">+1 (555) 123-4567</p>
+                    <p class="text-muted mb-0">+880 1234 567890</p>
                 </div>
                 
                 <div class="mb-3">
                     <h6><i class="bi bi-geo-alt text-danger"></i> Address</h6>
                     <p class="text-muted mb-0">
-                        123 Blog Street<br>
-                        Writers District<br>
-                        Story City, SC 12345
+                        123 Narinda<br>
+                        Dhaka South<br>
+                        Dhaka-1200
                     </p>
                 </div>
                 
