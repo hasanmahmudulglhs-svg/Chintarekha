@@ -185,30 +185,6 @@ include 'header.php';
                 </div>
             </div>
         </div>
-        
-        <!-- Social Links -->
-        <div class="card shadow-sm">
-            <div class="card-header bg-warning text-dark">
-                <h5 class="mb-0"><i class="bi bi-share"></i> Connect With Us</h5>
-            </div>
-            <div class="card-body text-center">
-                <p class="text-muted mb-3">Follow us on social media for updates and community highlights!</p>
-                <div class="d-flex justify-content-center gap-3">
-                    <a href="#" class="btn btn-outline-primary btn-lg">
-                        <i class="bi bi-facebook"></i>
-                    </a>
-                    <a href="#" class="btn btn-outline-info btn-lg">
-                        <i class="bi bi-twitter"></i>
-                    </a>
-                    <a href="#" class="btn btn-outline-danger btn-lg">
-                        <i class="bi bi-instagram"></i>
-                    </a>
-                    <a href="#" class="btn btn-outline-dark btn-lg">
-                        <i class="bi bi-github"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
