@@ -2,7 +2,7 @@
 
 A simple, elegant blog platform built with PHP, MySQL, and Bootstrap. Perfect for personal blogging, community writing, and content management.
 
-### Live link: https://chintarekha.free.nf/
+### Live link: https://chintarekha.rf.gd/
 
 ## 🌟 Features
 
@@ -63,5 +63,6 @@ Chintarekha/
 - **Bootstrap Icons**: Beautiful iconography throughout
 - **Image Optimization**: Automatic image resizing and optimization
 - **User-Friendly**: Intuitive interface for all skill levels
+
 
 
